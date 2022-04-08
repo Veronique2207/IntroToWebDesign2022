@@ -1,0 +1,47 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #6986d6;
+}
+
+#profilephoto{
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+
+}
+
+header {
+  text-align: center;
+  justify-content: center;
+}
+#heading{
+  font-family: sans-serif;
+  font-size: 110%;
+  background-color: grey;
+}
+
+footer {
+  background-color: #3e6d55;
+  text-align: center;
+}
+h2{
+  font-size: 40px;
+  background-color: lightgreen;
+  margin: 20px;
+  padding: 40px;
+}
+
+#sidebar{
+  width: 20%;
+  background-color: skyblue;
+}
+
+h2{
+  border-style: dashed;
+  border-width: 3px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-color: darkgoldenrod;
+  border-radius: 10px 20px 30px 40px;
+}
